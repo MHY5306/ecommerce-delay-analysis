@@ -127,3 +127,12 @@ This analysis helps:
 * Develop seller performance scoring system
 * Add real-time monitoring dashboard
 
+## 🧠 SQL Highlights
+
+Key techniques used in this project:
+
+- JOIN multiple tables to integrate order, customer, and payment data
+- CASE WHEN to classify delayed vs on-time deliveries
+- Aggregation (SUM, COUNT, GROUP BY) for KPI calculation
+- Window functions (for cumulative analysis, if used)
+
